@@ -1,0 +1,16 @@
+{
+    "name": "react-fetch",
+    "description": "A component that fetches data from an api",
+    "repos": "https://github.com/zackify/react-fetch.git",
+    "main": "react-fetch",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {
+        "isomorphic-fetch": "^2.1.0",
+        "react": "^0.13.3"
+    },
+    "paths": {
+        "dist": "."
+    },
+    "version": "0.0.7"
+}
