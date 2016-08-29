@@ -6,11 +6,10 @@
     "tag": "master",
     "reposType": "npm",
     "dependencies": {
-        "isomorphic-fetch": "^2.1.0",
-        "react": "^0.13.3"
+        "isomorphic-fetch": "^2.1.0"
     },
     "paths": {
         "dist": "."
     },
-    "version": "0.0.7"
+    "version": "0.0.8"
 }
